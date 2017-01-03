@@ -1,0 +1,2 @@
+# thdqp
+qp dev efforts
